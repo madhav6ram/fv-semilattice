@@ -1,4 +1,4 @@
-Formally Verified Semilattice Class for Conflict-free Replicated Data Types (CRDTs)
+### Formally Verified Semilattice Class for Conflict-free Replicated Data Types (CRDTs)
 
 class Semilattice: Type class guaranteeing that joins are safe. Axioms are associativity, commutativity, and idempotency.
 
